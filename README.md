@@ -22,7 +22,8 @@ git clone https://github.com/vladimirnauc/CB20251120
 2. Sign up or log in to your account
 3. Navigate to the **API Keys** section
 4. Create a new API key
-5. Ensure your account has a small balance (≈1 USD is enough)
+5. Ensure your account has a small balance 
+   - (minimum payment defined by openAI is 5$)
 
 ### 4. Run the Notebooks
 
